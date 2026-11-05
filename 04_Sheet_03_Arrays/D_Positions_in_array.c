@@ -2,20 +2,19 @@
 
 int main()
 {
-    int n;
-    scanf("%d", &n);
-    int arr[n];
-    for (int i = 0; i < n; i++)
+  int n;
+  scanf("%d", &n);
+  int a[n];
+  for(int i=0; i<n; i++)
+  {
+    scanf("%d", &a[i]);
+  }
+  for (int i=0;i<n;i++)
+  {
+    if (a[i]<=10)
     {
-        scanf("%d", &arr[i]);
+      printf("A[%d] = %d\n", i, a[i]);
     }
-   for (int i = 0; i < n; i++)
-    {
-        if (arr[i]<=10)
-        {
-           printf("A[%d] = %d \n", i, arr[i]);
-        }
-        
-    }
-    return 0;
+  }
+  return 0;
 }

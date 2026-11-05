@@ -2,21 +2,13 @@
 # Code Runner helper script for C/C++ in VS Code
 # Supports running single files with input.txt and output.txt redirection
 
-SRC="$1"
-INPUT="$2"
-OUTPUT="$3"
+strip_quotes() {
+    printf '%s' "$1" | sed -e "s/^[ '\"	]*//" -e "s/[ '\"	]*$//"
+}
 
-# Strip surrounding quotes if present
-SRC="${SRC%\"}"
-SRC="${SRC#\"}"
-SRC="${SRC%\'}"
-SRC="${SRC#\'}"
-
-INPUT="${INPUT%\"}"
-INPUT="${INPUT#\"}"
-
-OUTPUT="${OUTPUT%\"}"
-OUTPUT="${OUTPUT#\"}"
+SRC=$(strip_quotes "$1")
+INPUT=$(strip_quotes "$2")
+OUTPUT=$(strip_quotes "$3")
 
 WORKSPACE="/Users/shithel/Desktop/Codep"
 [ -z "$INPUT" ] && INPUT="$WORKSPACE/input.txt"

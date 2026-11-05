@@ -1,8 +1,8 @@
 # 🚀 Phitron C Programming & Competitive Programming Journey
-> A complete, structured archive of **75+ C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
+> A complete, structured archive of **87 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-75+-brightgreen?style=flat)
+![Solved](https://img.shields.io/badge/Problems_Solved-87-brightgreen?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
 ![Batch](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
@@ -16,20 +16,21 @@ This repository documents my competitive programming and computer science founda
 
 | # | Category / Sheet | Platform | Problems Solved |
 | :---: | :--- | :---: | :---: |
-| 01 | [Codeforces Sheet #1: Data type - Conditions](#-01-sheet-01-conditions) | `Codeforces` | **7** |
+| 01 | [Codeforces Sheet #1: Data type - Conditions](#-01-sheet-01-conditions) | `Codeforces` | **8** |
 | 02 | [Codeforces Sheet #2: Loops & Patterns](#-02-sheet-02-loops) | `Codeforces` | **10** |
 | 03 | [Codeforces Contest #1](#-03-contest-01) | `Codeforces` | **3** |
-| 04 | [Codeforces Sheet #3: Arrays](#-04-sheet-03-arrays) | `Codeforces` | **9** |
+| 04 | [Codeforces Sheet #3: Arrays](#-04-sheet-03-arrays) | `Codeforces` | **10** |
 | 05 | [Codeforces Sheet #4: Strings](#-05-sheet-04-strings) | `Codeforces` | **9** |
-| 06 | [Codeforces Sheet #5: Functions](#-06-sheet-05-functions) | `Codeforces` | **2** |
-| 07 | [Module 15: Pointers & References](#-07-pointers) | `Course Module` | **3** |
+| 06 | [Codeforces Sheet #5: Functions](#-06-sheet-05-functions) | `Codeforces` | **4** |
+| 07 | [Module 15: Pointers & References](#-07-pointers) | `Course Module` | **4** |
 | 08 | [HackerRank: Assignment 01](#-08-assignment-01) | `HackerRank` | **5** |
 | 09 | [HackerRank: Assignment 02](#-09-assignment-02) | `HackerRank` | **5** |
 | 10 | [HackerRank: Mid Term Exam (Batch 10)](#-10-mid-term-exam) | `HackerRank` | **5** |
 | 11 | [HackerRank: Module 3.5 Practice Day 2](#-11-practice-day-module-3-5) | `HackerRank` | **5** |
 | 12 | [AtCoder Beginner Contests](#-12-atcoder-contests) | `AtCoder` | **2** |
-| 13 | [C Concepts, Patterns & Functions Practice](#-13-concepts-and-basics) | `Core Concepts` | **10** |
-| **Total** | **All Categories** | **All Platforms** | **`75` Problems** |
+| 13 | [C Concepts, Patterns & Functions Practice](#-13-concepts-and-basics) | `Core Concepts` | **12** |
+| 14 | [HackerRank: Assignment 03 (Batch 10)](#-14-assignment-03) | `HackerRank` | **5** |
+| | **Total Solved Problems** | | **87** |
 
 ---
 
@@ -45,7 +46,9 @@ This repository documents my competitive programming and computer science founda
 | ✅ | M Capital or Small or Digit | [`M_Capital_or_Small_or_Digit.c`](./01_Sheet_01_Conditions/M_Capital_or_Small_or_Digit.c) |
 | ✅ | N Char | [`N_Char.c`](./01_Sheet_01_Conditions/N_Char.c) |
 | ✅ | P First digit | [`P_First_digit.c`](./01_Sheet_01_Conditions/P_First_digit.c) |
+| ✅ | T Sort Numbers | [`T_Sort_Numbers.c`](./01_Sheet_01_Conditions/T_Sort_Numbers.c) |
 | ✅ | W Mathematical Expression | [`W_Mathematical_Expression.c`](./01_Sheet_01_Conditions/W_Mathematical_Expression.c) |
+
 
 ### 📁 Codeforces Sheet #2: Loops & Patterns
 
@@ -64,6 +67,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | T Shape2 | [`T_Shape2.c`](./02_Sheet_02_Loops/T_Shape2.c) |
 | ✅ | W Shape3 | [`W_Shape3.c`](./02_Sheet_02_Loops/W_Shape3.c) |
 
+
 ### 📁 Codeforces Contest #1
 
 > **Directory:** [`03_Contest_01/`](03_Contest_01/) • **Platform:** `Codeforces`
@@ -73,6 +77,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | C Next Alphabet | [`C_Next_Alphabet.c`](./03_Contest_01/C_Next_Alphabet.c) |
 | ✅ | D Ali Baba and Puzzles | [`D_Ali_Baba_and_Puzzles.c`](./03_Contest_01/D_Ali_Baba_and_Puzzles.c) |
 | ✅ | I Lucky Numbers | [`I_Lucky_Numbers.c`](./03_Contest_01/I_Lucky_Numbers.c) |
+
 
 ### 📁 Codeforces Sheet #3: Arrays
 
@@ -88,7 +93,9 @@ This repository documents my competitive programming and computer science founda
 | ✅ | F Reversing | [`F_Reversing.c`](./04_Sheet_03_Arrays/F_Reversing.c) |
 | ✅ | H Sorting | [`H_Sorting.c`](./04_Sheet_03_Arrays/H_Sorting.c) |
 | ✅ | K Sum Digits | [`K_Sum_Digits.c`](./04_Sheet_03_Arrays/K_Sum_Digits.c) |
+| ✅ | N Check Code | [`N_Check_Code.c`](./04_Sheet_03_Arrays/N_Check_Code.c) |
 | ✅ | V Frequency Array | [`V_Frequency_Array.c`](./04_Sheet_03_Arrays/V_Frequency_Array.c) |
+
 
 ### 📁 Codeforces Sheet #4: Strings
 
@@ -106,14 +113,18 @@ This repository documents my competitive programming and computer science founda
 | ✅ | J Count Letters | [`J_Count_Letters.c`](./05_Sheet_04_Strings/J_Count_Letters.c) |
 | ✅ | K I Love strings | [`K_I_Love_strings.c`](./05_Sheet_04_Strings/K_I_Love_strings.c) |
 
+
 ### 📁 Codeforces Sheet #5: Functions
 
 > **Directory:** [`06_Sheet_05_Functions/`](06_Sheet_05_Functions/) • **Platform:** `Codeforces`
 
 | Status | Problem Name | Source Code File |
 | :---: | :--- | :--- |
+| ✅ | A Add | [`A_Add.c`](./06_Sheet_05_Functions/A_Add.c) |
+| ✅ | B Print | [`B_Print.c`](./06_Sheet_05_Functions/B_Print.c) |
 | ✅ | G Max and MIN | [`G_Max_and_MIN.c`](./06_Sheet_05_Functions/G_Max_and_MIN.c) |
 | ✅ | N Shift Zeros | [`N_Shift_Zeros.c`](./06_Sheet_05_Functions/N_Shift_Zeros.c) |
+
 
 ### 📁 Module 15: Pointers & References
 
@@ -123,7 +134,9 @@ This repository documents my competitive programming and computer science founda
 | :---: | :--- | :--- |
 | ✅ | mod15 | [`mod15.c`](./07_Pointers/mod15.c) |
 | ✅ | pass by value | [`pass_by_value.c`](./07_Pointers/pass_by_value.c) |
+| ✅ | pointer in array | [`pointer_in_array.c`](./07_Pointers/pointer_in_array.c) |
 | ✅ | scan function | [`scan_function.c`](./07_Pointers/scan_function.c) |
+
 
 ### 📁 HackerRank: Assignment 01
 
@@ -137,6 +150,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Print It | [`Print_It.c`](./08_Assignment_01/Print_It.c) |
 | ✅ | Shopping | [`Shopping.c`](./08_Assignment_01/Shopping.c) |
 
+
 ### 📁 HackerRank: Assignment 02
 
 > **Directory:** [`09_Assignment_02/`](09_Assignment_02/) • **Platform:** `HackerRank`
@@ -148,6 +162,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Say It | [`Say_It.c`](./09_Assignment_02/Say_It.c) |
 | ✅ | Sum Sum | [`Sum_Sum.c`](./09_Assignment_02/Sum_Sum.c) |
 | ✅ | Update and Print | [`Update_and_Print.c`](./09_Assignment_02/Update_and_Print.c) |
+
 
 ### 📁 HackerRank: Mid Term Exam (Batch 10)
 
@@ -161,6 +176,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Count Me 4 | [`Count_Me_4.c`](./10_Mid_Term_Exam/Count_Me_4.c) |
 | ✅ | Farmers | [`Farmers.c`](./10_Mid_Term_Exam/Farmers.c) |
 
+
 ### 📁 HackerRank: Module 3.5 Practice Day 2
 
 > **Directory:** [`11_Practice_Day_Module_3_5/`](11_Practice_Day_Module_3_5/) • **Platform:** `HackerRank`
@@ -173,6 +189,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Sum of Two Numbers | [`Sum_of_Two_Numbers.c`](./11_Practice_Day_Module_3_5/Sum_of_Two_Numbers.c) |
 | ✅ | Variables | [`Variables.c`](./11_Practice_Day_Module_3_5/Variables.c) |
 
+
 ### 📁 AtCoder Beginner Contests
 
 > **Directory:** [`12_AtCoder_Contests/`](12_AtCoder_Contests/) • **Platform:** `AtCoder`
@@ -182,6 +199,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | 2 UP 3 DOWN | [`2_UP_3_DOWN.c`](./12_AtCoder_Contests/2_UP_3_DOWN.c) |
 | ✅ | Greedy Takahashi | [`Greedy_Takahashi.c`](./12_AtCoder_Contests/Greedy_Takahashi.c) |
 
+
 ### 📁 C Concepts, Patterns & Functions Practice
 
 > **Directory:** [`13_Concepts_and_Basics/`](13_Concepts_and_Basics/) • **Platform:** `Core Concepts`
@@ -189,6 +207,8 @@ This repository documents my competitive programming and computer science founda
 | Status | Problem Name | Source Code File |
 | :---: | :--- | :--- |
 | ✅ | c | [`c.c`](./13_Concepts_and_Basics/c.c) |
+| ✅ | function with array | [`function_with_array.c`](./13_Concepts_and_Basics/function_with_array.c) |
+| ✅ | function with string | [`function_with_string.c`](./13_Concepts_and_Basics/function_with_string.c) |
 | ✅ | hi | [`hi.c`](./13_Concepts_and_Basics/hi.c) |
 | ✅ | no return no parameter | [`no_return_no_parameter.c`](./13_Concepts_and_Basics/no_return_no_parameter.c) |
 | ✅ | no return parameter | [`no_return_parameter.c`](./13_Concepts_and_Basics/no_return_parameter.c) |
@@ -199,6 +219,20 @@ This repository documents my competitive programming and computer science founda
 | ✅ | star | [`star.c`](./13_Concepts_and_Basics/star.c) |
 | ✅ | stin | [`stin.c`](./13_Concepts_and_Basics/stin.c) |
 
+
+### 📁 HackerRank: Assignment 03 (Batch 10)
+
+> **Directory:** [`14_Assignment_03/`](14_Assignment_03/) • **Platform:** `HackerRank`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | Count Before One | [`Count_Before_One.c`](./14_Assignment_03/Count_Before_One.c) |
+| ✅ | Even and Odd | [`Even_and_Odd.c`](./14_Assignment_03/Even_and_Odd.c) |
+| ✅ | Is Palindrome | [`Is_Palindrome.c`](./14_Assignment_03/Is_Palindrome.c) |
+| ✅ | Pattern | [`Pattern.c`](./14_Assignment_03/Pattern.c) |
+| ✅ | Pattern 2 | [`Pattern_2.c`](./14_Assignment_03/Pattern_2.c) |
+
+
 ---
 
 ## ⚙️ How to Run Locally
@@ -206,9 +240,7 @@ This repository documents my competitive programming and computer science founda
 ### Prerequisites
 
 - GCC Compiler (`gcc`) or Clang on macOS/Linux/Windows.
-
 - Visual Studio Code with the **Code Runner** extension.
-
 
 ### Running Any File
 
@@ -237,8 +269,5 @@ This repository documents my competitive programming and computer science founda
 **Shoayibul Islam Shithel (Md Shithel)**
 
 - GitHub: [@shithel9360](https://github.com/shithel9360)
-
 - Codeforces: [shoayibul.islam.shithel](https://codeforces.com/profile/shoayibul.islam.shithel)
-
 - HackerRank: [shoayibul_islam1](https://www.hackerrank.com/profile/shoayibul_islam1)
-
