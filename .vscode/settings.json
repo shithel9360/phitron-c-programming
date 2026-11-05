@@ -1,0 +1,21 @@
+{
+    "code-runner.executorMap": {
+        "c": "bash \"$workspaceRoot/.vscode/run-c.sh\" \"$fullFileName\" \"$workspaceRoot/input.txt\" \"$workspaceRoot/output.txt\"",
+        "cpp": "bash \"$workspaceRoot/.vscode/run-c.sh\" \"$fullFileName\" \"$workspaceRoot/input.txt\" \"$workspaceRoot/output.txt\""
+    },
+    "code-runner.runInTerminal": false,
+    "code-runner.preserveFocus": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.bin": true,
+        "**/*.dSYM": true,
+        "**/.cph": true
+    }
+}

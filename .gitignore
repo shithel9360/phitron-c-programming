@@ -1,0 +1,28 @@
+# Compiled Binaries & Object Files
+*.bin
+*.out
+*.exe
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Debug Symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Competitive Programming Helper Cache
+.cph/
