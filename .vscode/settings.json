@@ -6,7 +6,11 @@
     "code-runner.runInTerminal": false,
     "code-runner.preserveFocus": true,
     "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
     "code-runner.saveFileBeforeRun": true,
+    "code-runner.ignoreSelection": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 300,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
