@@ -1,8 +1,5 @@
 #include <stdio.h>
-void printf(int x)
-{
 
-}
 int main()
 {
   int x;

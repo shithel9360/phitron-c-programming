@@ -17,8 +17,10 @@
 - **AtCoder Beginner Contests:** 2 Solved `.c` Files
 - **C Concepts, Patterns & Functions Practice:** 12 Solved `.c` Files
 - **HackerRank: Assignment 03 (Batch 10):** 5 Solved `.c` Files
+- **Module 17: Recursion & Call Stack:** 2 Solved `.c` Files
+- **Module 18: 2D Array & Matrix:** 2 Solved `.c` Files
 
-**🏆 Total Solved C Files Saved:** `87` Files
+**🏆 Total Solved C Files Saved:** `91` Files
 
 ---
 
@@ -191,4 +193,20 @@
 | ✅ | `Is_Palindrome.c` | [`Is_Palindrome.c`](file:///Users/shithel/Desktop/Codep/14_Assignment_03/Is_Palindrome.c) |
 | ✅ | `Pattern.c` | [`Pattern.c`](file:///Users/shithel/Desktop/Codep/14_Assignment_03/Pattern.c) |
 | ✅ | `Pattern_2.c` | [`Pattern_2.c`](file:///Users/shithel/Desktop/Codep/14_Assignment_03/Pattern_2.c) |
+
+
+## 📁 Module 17: Recursion & Call Stack (`15_Recursion/`)
+
+| Status | Problem / File Name | Local File Link |
+| :---: | :--- | :--- |
+| ✅ | `call_stack.c` | [`call_stack.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/call_stack.c) |
+| ✅ | `print_array_recursion.c` | [`print_array_recursion.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/print_array_recursion.c) |
+
+
+## 📁 Module 18: 2D Array & Matrix (`16_2D_Array/`)
+
+| Status | Problem / File Name | Local File Link |
+| :---: | :--- | :--- |
+| ✅ | `2d_array.c` | [`2d_array.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array.c) |
+| ✅ | `2d_array_input.c` | [`2d_array_input.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array_input.c) |
 

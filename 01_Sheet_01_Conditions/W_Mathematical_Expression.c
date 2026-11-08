@@ -5,7 +5,7 @@ int main()
   int a,b,c;
   char s,eq;
     scanf("%d %c %d %c %d",&a,&s,&b,&eq,&c);
-    int ans;
+    int ans = 0;
     if(s=='+')
     {
         ans = a+b;
@@ -24,7 +24,7 @@ int main()
     }
     else
     {
-        printf("%d\n", ans  );
+        printf("%d\n", ans);
     }
     
   return 0;

@@ -1,8 +1,8 @@
 # 🚀 Phitron C Programming & Competitive Programming Journey
-> A complete, structured archive of **87 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
+> A complete, structured archive of **91 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-87-brightgreen?style=flat)
+![Solved](https://img.shields.io/badge/Problems_Solved-91-brightgreen?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
 ![Batch](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
@@ -30,7 +30,9 @@ This repository documents my competitive programming and computer science founda
 | 12 | [AtCoder Beginner Contests](#-12-atcoder-contests) | `AtCoder` | **2** |
 | 13 | [C Concepts, Patterns & Functions Practice](#-13-concepts-and-basics) | `Core Concepts` | **12** |
 | 14 | [HackerRank: Assignment 03 (Batch 10)](#-14-assignment-03) | `HackerRank` | **5** |
-| | **Total Solved Problems** | | **87** |
+| 15 | [Module 17: Recursion & Call Stack](#-15-recursion) | `Course Module` | **2** |
+| 16 | [Module 18: 2D Array & Matrix](#-16-2d-array) | `Course Module` | **2** |
+| | **Total Solved Problems** | | **91** |
 
 ---
 
@@ -231,6 +233,26 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Is Palindrome | [`Is_Palindrome.c`](./14_Assignment_03/Is_Palindrome.c) |
 | ✅ | Pattern | [`Pattern.c`](./14_Assignment_03/Pattern.c) |
 | ✅ | Pattern 2 | [`Pattern_2.c`](./14_Assignment_03/Pattern_2.c) |
+
+
+### 📁 Module 17: Recursion & Call Stack
+
+> **Directory:** [`15_Recursion/`](15_Recursion/) • **Platform:** `Course Module`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | call stack | [`call_stack.c`](./15_Recursion/call_stack.c) |
+| ✅ | print array recursion | [`print_array_recursion.c`](./15_Recursion/print_array_recursion.c) |
+
+
+### 📁 Module 18: 2D Array & Matrix
+
+> **Directory:** [`16_2D_Array/`](16_2D_Array/) • **Platform:** `Course Module`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | 2d array | [`2d_array.c`](./16_2D_Array/2d_array.c) |
+| ✅ | 2d array input | [`2d_array_input.c`](./16_2D_Array/2d_array_input.c) |
 
 
 ---

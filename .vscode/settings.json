@@ -1,7 +1,7 @@
 {
     "code-runner.executorMap": {
-        "c": "bash \"$workspaceRoot/.vscode/run-c.sh\" \"$fullFileName\" \"$workspaceRoot/input.txt\" \"$workspaceRoot/output.txt\"",
-        "cpp": "bash \"$workspaceRoot/.vscode/run-c.sh\" \"$fullFileName\" \"$workspaceRoot/input.txt\" \"$workspaceRoot/output.txt\""
+        "c": "bash \"$workspaceRoot/.vscode/run-c.sh\" $fullFileName \"$workspaceRoot/input.txt\" \"$workspaceRoot/output.txt\"",
+        "cpp": "bash \"$workspaceRoot/.vscode/run-c.sh\" $fullFileName \"$workspaceRoot/input.txt\" \"$workspaceRoot/output.txt\""
     },
     "code-runner.runInTerminal": false,
     "code-runner.preserveFocus": true,
