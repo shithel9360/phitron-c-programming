@@ -1,8 +1,8 @@
 # 🚀 Phitron C Programming & Competitive Programming Journey
-> A complete, structured archive of **91 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
+> A complete, structured archive of **96 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-91-brightgreen?style=flat)
+![Solved](https://img.shields.io/badge/Problems_Solved-96-brightgreen?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
 ![Batch](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
@@ -31,8 +31,8 @@ This repository documents my competitive programming and computer science founda
 | 13 | [C Concepts, Patterns & Functions Practice](#-13-concepts-and-basics) | `Core Concepts` | **12** |
 | 14 | [HackerRank: Assignment 03 (Batch 10)](#-14-assignment-03) | `HackerRank` | **5** |
 | 15 | [Module 17: Recursion & Call Stack](#-15-recursion) | `Course Module` | **2** |
-| 16 | [Module 18: 2D Array & Matrix](#-16-2d-array) | `Course Module` | **2** |
-| | **Total Solved Problems** | | **91** |
+| 16 | [Module 18: 2D Array & Matrix](#-16-2d-array) | `Course Module` | **7** |
+| | **Total Solved Problems** | | **96** |
 
 ---
 
@@ -253,6 +253,11 @@ This repository documents my competitive programming and computer science founda
 | :---: | :--- | :--- |
 | ✅ | 2d array | [`2d_array.c`](./16_2D_Array/2d_array.c) |
 | ✅ | 2d array input | [`2d_array_input.c`](./16_2D_Array/2d_array_input.c) |
+| ✅ | 2d array print | [`2d_array_print.c`](./16_2D_Array/2d_array_print.c) |
+| ✅ | diagonal matrix | [`diagonal_matrix.c`](./16_2D_Array/diagonal_matrix.c) |
+| ✅ | specific row column | [`specific_row_column.c`](./16_2D_Array/specific_row_column.c) |
+| ✅ | square matrix | [`square_matrix.c`](./16_2D_Array/square_matrix.c) |
+| ✅ | zero matrix | [`zero_matrix.c`](./16_2D_Array/zero_matrix.c) |
 
 
 ---
