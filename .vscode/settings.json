@@ -11,6 +11,18 @@
     "code-runner.ignoreSelection": true,
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 300,
+    "editor.tabCompletion": "on",
+    "editor.suggestSelection": "first",
+    "editor.snippetSuggestions": "top",
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "on"
+    },
+    "C_Cpp.intelliSenseEngine": "default",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
