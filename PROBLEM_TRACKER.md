@@ -18,9 +18,9 @@
 - **C Concepts, Patterns & Functions Practice:** 12 Solved `.c` Files
 - **HackerRank: Assignment 03 (Batch 10):** 5 Solved `.c` Files
 - **Module 17: Recursion & Call Stack:** 2 Solved `.c` Files
-- **Module 18: 2D Array & Matrix:** 7 Solved `.c` Files
+- **Module 18: 2D Array & Matrix:** 10 Solved `.c` Files
 
-**🏆 Total Solved C Files Saved:** `96` Files
+**🏆 Total Solved C Files Saved:** `99` Files
 
 ---
 
@@ -210,8 +210,11 @@
 | ✅ | `2d_array.c` | [`2d_array.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array.c) |
 | ✅ | `2d_array_input.c` | [`2d_array_input.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array_input.c) |
 | ✅ | `2d_array_print.c` | [`2d_array_print.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array_print.c) |
-| ✅ | `diagonal_matrix.c` | [`diagonal_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/diagonal_matrix.c) |
+| ✅ | `primary_diagonal_matrix.c` | [`primary_diagonal_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/primary_diagonal_matrix.c) |
+| ✅ | `scalar_matrix.c` | [`scalar_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/scalar_matrix.c) |
+| ✅ | `secondary_diagonal_matrix.c` | [`secondary_diagonal_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/secondary_diagonal_matrix.c) |
 | ✅ | `specific_row_column.c` | [`specific_row_column.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/specific_row_column.c) |
 | ✅ | `square_matrix.c` | [`square_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/square_matrix.c) |
+| ✅ | `unit_matrix.c` | [`unit_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/unit_matrix.c) |
 | ✅ | `zero_matrix.c` | [`zero_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/zero_matrix.c) |
 

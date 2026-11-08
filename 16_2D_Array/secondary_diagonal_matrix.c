@@ -24,24 +24,23 @@ int main()
   {
     for (int j = 0; j < c; j++)
     {
-      if (i == j)
+      if (i + j != r - 1)
       {
-        continue;
-      }
-      if (a[i][j] != 0)
-      {
-        flag = 0;
+        if (a[i][j] != 0)
+        {
+          flag = 0;
+        }
       }
     }
   }
 
   if (flag == 1)
   {
-    printf("this is a diagonal matrix\n");
+    printf("this is a secondary diagonal matrix\n");
   }
   else
   {
-    printf("this is not a diagonal matrix\n");
+    printf("this is not a secondary diagonal matrix\n");
   }
 
   return 0;
