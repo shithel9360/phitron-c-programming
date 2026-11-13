@@ -1,8 +1,8 @@
 # 🚀 Phitron C Programming & Competitive Programming Journey
-> A complete, structured archive of **99 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
+> A complete, structured archive of **117 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-99-brightgreen?style=flat)
+![Solved](https://img.shields.io/badge/Problems_Solved-117-brightgreen?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
 ![Batch](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
@@ -18,8 +18,8 @@ This repository documents my competitive programming and computer science founda
 | :---: | :--- | :---: | :---: |
 | 01 | [Codeforces Sheet #1: Data type - Conditions](#-01-sheet-01-conditions) | `Codeforces` | **8** |
 | 02 | [Codeforces Sheet #2: Loops & Patterns](#-02-sheet-02-loops) | `Codeforces` | **10** |
-| 03 | [Codeforces Contest #1](#-03-contest-01) | `Codeforces` | **3** |
-| 04 | [Codeforces Sheet #3: Arrays](#-04-sheet-03-arrays) | `Codeforces` | **10** |
+| 03 | [Codeforces Contest #1](#-03-contest-01) | `Codeforces` | **4** |
+| 04 | [Codeforces Sheet #3: Arrays](#-04-sheet-03-arrays) | `Codeforces` | **15** |
 | 05 | [Codeforces Sheet #4: Strings](#-05-sheet-04-strings) | `Codeforces` | **9** |
 | 06 | [Codeforces Sheet #5: Functions](#-06-sheet-05-functions) | `Codeforces` | **4** |
 | 07 | [Module 15: Pointers & References](#-07-pointers) | `Course Module` | **4** |
@@ -30,9 +30,11 @@ This repository documents my competitive programming and computer science founda
 | 12 | [AtCoder Beginner Contests](#-12-atcoder-contests) | `AtCoder` | **2** |
 | 13 | [C Concepts, Patterns & Functions Practice](#-13-concepts-and-basics) | `Core Concepts` | **12** |
 | 14 | [HackerRank: Assignment 03 (Batch 10)](#-14-assignment-03) | `HackerRank` | **5** |
-| 15 | [Module 17: Recursion & Call Stack](#-15-recursion) | `Course Module` | **2** |
-| 16 | [Module 18: 2D Array & Matrix](#-16-2d-array) | `Course Module` | **10** |
-| | **Total Solved Problems** | | **99** |
+| 15 | [Module 17: Recursion & Call Stack](#-15-recursion) | `Course Module` | **10** |
+| 16 | [Module 18: 2D Array & Matrix](#-16-2d-array) | `Course Module` | **11** |
+| 17 | [Codeforces Contest #3.1](#-17-contest-03) | `Codeforces` | **2** |
+| 18 | [Codeforces Sheet #8: General Easy](#-18-sheet-08-general-easy) | `Codeforces` | **1** |
+| | **Total Solved Problems** | | **117** |
 
 ---
 
@@ -76,6 +78,7 @@ This repository documents my competitive programming and computer science founda
 
 | Status | Problem Name | Source Code File |
 | :---: | :--- | :--- |
+| ✅ | B Memo and Momo | [`B_Memo_and_Momo.c`](./03_Contest_01/B_Memo_and_Momo.c) |
 | ✅ | C Next Alphabet | [`C_Next_Alphabet.c`](./03_Contest_01/C_Next_Alphabet.c) |
 | ✅ | D Ali Baba and Puzzles | [`D_Ali_Baba_and_Puzzles.c`](./03_Contest_01/D_Ali_Baba_and_Puzzles.c) |
 | ✅ | I Lucky Numbers | [`I_Lucky_Numbers.c`](./03_Contest_01/I_Lucky_Numbers.c) |
@@ -94,9 +97,14 @@ This repository documents my competitive programming and computer science founda
 | ✅ | E Lowest Number | [`E_Lowest_Number.c`](./04_Sheet_03_Arrays/E_Lowest_Number.c) |
 | ✅ | F Reversing | [`F_Reversing.c`](./04_Sheet_03_Arrays/F_Reversing.c) |
 | ✅ | H Sorting | [`H_Sorting.c`](./04_Sheet_03_Arrays/H_Sorting.c) |
+| ✅ | J Lucky Array | [`J_Lucky_Array.c`](./04_Sheet_03_Arrays/J_Lucky_Array.c) |
 | ✅ | K Sum Digits | [`K_Sum_Digits.c`](./04_Sheet_03_Arrays/K_Sum_Digits.c) |
 | ✅ | N Check Code | [`N_Check_Code.c`](./04_Sheet_03_Arrays/N_Check_Code.c) |
+| ✅ | P Minimize Number | [`P_Minimize_Number.c`](./04_Sheet_03_Arrays/P_Minimize_Number.c) |
+| ✅ | S Search In Matrix | [`S_Search_In_Matrix.c`](./04_Sheet_03_Arrays/S_Search_In_Matrix.c) |
+| ✅ | T Matrix | [`T_Matrix.c`](./04_Sheet_03_Arrays/T_Matrix.c) |
 | ✅ | V Frequency Array | [`V_Frequency_Array.c`](./04_Sheet_03_Arrays/V_Frequency_Array.c) |
+| ✅ | W Mirror Array | [`W_Mirror_Array.c`](./04_Sheet_03_Arrays/W_Mirror_Array.c) |
 
 
 ### 📁 Codeforces Sheet #4: Strings
@@ -241,6 +249,14 @@ This repository documents my competitive programming and computer science founda
 
 | Status | Problem Name | Source Code File |
 | :---: | :--- | :--- |
+| ✅ | B Print from 1 to N | [`B_Print_from_1_to_N.c`](./15_Recursion/B_Print_from_1_to_N.c) |
+| ✅ | C Print from N to 1 | [`C_Print_from_N_to_1.c`](./15_Recursion/C_Print_from_N_to_1.c) |
+| ✅ | D Print Digits using Recursion | [`D_Print_Digits_using_Recursion.c`](./15_Recursion/D_Print_Digits_using_Recursion.c) |
+| ✅ | I Count Vowels | [`I_Count_Vowels.c`](./15_Recursion/I_Count_Vowels.c) |
+| ✅ | J Factorial | [`J_Factorial.c`](./15_Recursion/J_Factorial.c) |
+| ✅ | K Max Number | [`K_Max_Number.c`](./15_Recursion/K_Max_Number.c) |
+| ✅ | L Summation | [`L_Summation.c`](./15_Recursion/L_Summation.c) |
+| ✅ | P Log 2 | [`P_Log_2.c`](./15_Recursion/P_Log_2.c) |
 | ✅ | call stack | [`call_stack.c`](./15_Recursion/call_stack.c) |
 | ✅ | print array recursion | [`print_array_recursion.c`](./15_Recursion/print_array_recursion.c) |
 
@@ -254,6 +270,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | 2d array | [`2d_array.c`](./16_2D_Array/2d_array.c) |
 | ✅ | 2d array input | [`2d_array_input.c`](./16_2D_Array/2d_array_input.c) |
 | ✅ | 2d array print | [`2d_array_print.c`](./16_2D_Array/2d_array_print.c) |
+| ✅ | A Beautiful Matrix | [`A_Beautiful_Matrix.c`](./16_2D_Array/A_Beautiful_Matrix.c) |
 | ✅ | primary diagonal matrix | [`primary_diagonal_matrix.c`](./16_2D_Array/primary_diagonal_matrix.c) |
 | ✅ | scalar matrix | [`scalar_matrix.c`](./16_2D_Array/scalar_matrix.c) |
 | ✅ | secondary diagonal matrix | [`secondary_diagonal_matrix.c`](./16_2D_Array/secondary_diagonal_matrix.c) |
@@ -261,6 +278,25 @@ This repository documents my competitive programming and computer science founda
 | ✅ | square matrix | [`square_matrix.c`](./16_2D_Array/square_matrix.c) |
 | ✅ | unit matrix | [`unit_matrix.c`](./16_2D_Array/unit_matrix.c) |
 | ✅ | zero matrix | [`zero_matrix.c`](./16_2D_Array/zero_matrix.c) |
+
+
+### 📁 Codeforces Contest #3.1
+
+> **Directory:** [`17_Contest_03/`](17_Contest_03/) • **Platform:** `Codeforces`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | C Choose Elements | [`C_Choose_Elements.c`](./17_Contest_03/C_Choose_Elements.c) |
+| ✅ | F Front End | [`F_Front_End.c`](./17_Contest_03/F_Front_End.c) |
+
+
+### 📁 Codeforces Sheet #8: General Easy
+
+> **Directory:** [`18_Sheet_08_General_Easy/`](18_Sheet_08_General_Easy/) • **Platform:** `Codeforces`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | J Lucky Division | [`J_Lucky_Division.c`](./18_Sheet_08_General_Easy/J_Lucky_Division.c) |
 
 
 ---

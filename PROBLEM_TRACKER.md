@@ -5,8 +5,8 @@
 ## 📊 Repository Summary
 - **Codeforces Sheet #1: Data type - Conditions:** 8 Solved `.c` Files
 - **Codeforces Sheet #2: Loops & Patterns:** 10 Solved `.c` Files
-- **Codeforces Contest #1:** 3 Solved `.c` Files
-- **Codeforces Sheet #3: Arrays:** 10 Solved `.c` Files
+- **Codeforces Contest #1:** 4 Solved `.c` Files
+- **Codeforces Sheet #3: Arrays:** 15 Solved `.c` Files
 - **Codeforces Sheet #4: Strings:** 9 Solved `.c` Files
 - **Codeforces Sheet #5: Functions:** 4 Solved `.c` Files
 - **Module 15: Pointers & References:** 4 Solved `.c` Files
@@ -17,10 +17,12 @@
 - **AtCoder Beginner Contests:** 2 Solved `.c` Files
 - **C Concepts, Patterns & Functions Practice:** 12 Solved `.c` Files
 - **HackerRank: Assignment 03 (Batch 10):** 5 Solved `.c` Files
-- **Module 17: Recursion & Call Stack:** 2 Solved `.c` Files
-- **Module 18: 2D Array & Matrix:** 10 Solved `.c` Files
+- **Module 17: Recursion & Call Stack:** 10 Solved `.c` Files
+- **Module 18: 2D Array & Matrix:** 11 Solved `.c` Files
+- **Codeforces Contest #3.1:** 2 Solved `.c` Files
+- **Codeforces Sheet #8: General Easy:** 1 Solved `.c` Files
 
-**🏆 Total Solved C Files Saved:** `99` Files
+**🏆 Total Solved C Files Saved:** `117` Files
 
 ---
 
@@ -58,6 +60,7 @@
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
+| ✅ | `B_Memo_and_Momo.c` | [`B_Memo_and_Momo.c`](file:///Users/shithel/Desktop/Codep/03_Contest_01/B_Memo_and_Momo.c) |
 | ✅ | `C_Next_Alphabet.c` | [`C_Next_Alphabet.c`](file:///Users/shithel/Desktop/Codep/03_Contest_01/C_Next_Alphabet.c) |
 | ✅ | `D_Ali_Baba_and_Puzzles.c` | [`D_Ali_Baba_and_Puzzles.c`](file:///Users/shithel/Desktop/Codep/03_Contest_01/D_Ali_Baba_and_Puzzles.c) |
 | ✅ | `I_Lucky_Numbers.c` | [`I_Lucky_Numbers.c`](file:///Users/shithel/Desktop/Codep/03_Contest_01/I_Lucky_Numbers.c) |
@@ -74,9 +77,14 @@
 | ✅ | `E_Lowest_Number.c` | [`E_Lowest_Number.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/E_Lowest_Number.c) |
 | ✅ | `F_Reversing.c` | [`F_Reversing.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/F_Reversing.c) |
 | ✅ | `H_Sorting.c` | [`H_Sorting.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/H_Sorting.c) |
+| ✅ | `J_Lucky_Array.c` | [`J_Lucky_Array.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/J_Lucky_Array.c) |
 | ✅ | `K_Sum_Digits.c` | [`K_Sum_Digits.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/K_Sum_Digits.c) |
 | ✅ | `N_Check_Code.c` | [`N_Check_Code.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/N_Check_Code.c) |
+| ✅ | `P_Minimize_Number.c` | [`P_Minimize_Number.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/P_Minimize_Number.c) |
+| ✅ | `S_Search_In_Matrix.c` | [`S_Search_In_Matrix.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/S_Search_In_Matrix.c) |
+| ✅ | `T_Matrix.c` | [`T_Matrix.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/T_Matrix.c) |
 | ✅ | `V_Frequency_Array.c` | [`V_Frequency_Array.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/V_Frequency_Array.c) |
+| ✅ | `W_Mirror_Array.c` | [`W_Mirror_Array.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/W_Mirror_Array.c) |
 
 
 ## 📁 Codeforces Sheet #4: Strings (`05_Sheet_04_Strings/`)
@@ -199,6 +207,14 @@
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
+| ✅ | `B_Print_from_1_to_N.c` | [`B_Print_from_1_to_N.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/B_Print_from_1_to_N.c) |
+| ✅ | `C_Print_from_N_to_1.c` | [`C_Print_from_N_to_1.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/C_Print_from_N_to_1.c) |
+| ✅ | `D_Print_Digits_using_Recursion.c` | [`D_Print_Digits_using_Recursion.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/D_Print_Digits_using_Recursion.c) |
+| ✅ | `I_Count_Vowels.c` | [`I_Count_Vowels.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/I_Count_Vowels.c) |
+| ✅ | `J_Factorial.c` | [`J_Factorial.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/J_Factorial.c) |
+| ✅ | `K_Max_Number.c` | [`K_Max_Number.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/K_Max_Number.c) |
+| ✅ | `L_Summation.c` | [`L_Summation.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/L_Summation.c) |
+| ✅ | `P_Log_2.c` | [`P_Log_2.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/P_Log_2.c) |
 | ✅ | `call_stack.c` | [`call_stack.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/call_stack.c) |
 | ✅ | `print_array_recursion.c` | [`print_array_recursion.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/print_array_recursion.c) |
 
@@ -210,6 +226,7 @@
 | ✅ | `2d_array.c` | [`2d_array.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array.c) |
 | ✅ | `2d_array_input.c` | [`2d_array_input.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array_input.c) |
 | ✅ | `2d_array_print.c` | [`2d_array_print.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/2d_array_print.c) |
+| ✅ | `A_Beautiful_Matrix.c` | [`A_Beautiful_Matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/A_Beautiful_Matrix.c) |
 | ✅ | `primary_diagonal_matrix.c` | [`primary_diagonal_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/primary_diagonal_matrix.c) |
 | ✅ | `scalar_matrix.c` | [`scalar_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/scalar_matrix.c) |
 | ✅ | `secondary_diagonal_matrix.c` | [`secondary_diagonal_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/secondary_diagonal_matrix.c) |
@@ -217,4 +234,19 @@
 | ✅ | `square_matrix.c` | [`square_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/square_matrix.c) |
 | ✅ | `unit_matrix.c` | [`unit_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/unit_matrix.c) |
 | ✅ | `zero_matrix.c` | [`zero_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/zero_matrix.c) |
+
+
+## 📁 Codeforces Contest #3.1 (`17_Contest_03/`)
+
+| Status | Problem / File Name | Local File Link |
+| :---: | :--- | :--- |
+| ✅ | `C_Choose_Elements.c` | [`C_Choose_Elements.c`](file:///Users/shithel/Desktop/Codep/17_Contest_03/C_Choose_Elements.c) |
+| ✅ | `F_Front_End.c` | [`F_Front_End.c`](file:///Users/shithel/Desktop/Codep/17_Contest_03/F_Front_End.c) |
+
+
+## 📁 Codeforces Sheet #8: General Easy (`18_Sheet_08_General_Easy/`)
+
+| Status | Problem / File Name | Local File Link |
+| :---: | :--- | :--- |
+| ✅ | `J_Lucky_Division.c` | [`J_Lucky_Division.c`](file:///Users/shithel/Desktop/Codep/18_Sheet_08_General_Easy/J_Lucky_Division.c) |
 

@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+void print_digits(int n)
+{
+    if (n == 0)
+    {
+        return;
+    }
+
+    int digit = n % 10;
+    print_digits(n / 10);
+    printf("%d ", digit);
+}
+
+int main()
+{
+    int t;
+    scanf("%d", &t);
+
+    for (int i = 0; i < t; i++)
+    {
+        int n;
+        scanf("%d", &n);
+
+        if (n == 0)
+        {
+            printf("0");
+        }
+        if (n != 0)
+        {
+            print_digits(n);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
