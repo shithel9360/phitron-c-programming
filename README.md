@@ -1,4 +1,4 @@
-# 🚀 Phitron C Programming & Competitive Programming Journey
+#  Phitron C Programming & Competitive Programming Journey
 > A complete, structured archive of **123 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
@@ -12,7 +12,7 @@
 This repository documents my competitive programming and computer science foundations in C. It includes practice sheets from the renowned **Assiut University Training Sheet (Codeforces)**, official **HackerRank Assignments & Mid-Term Exams**, contest problems from **AtCoder**, and core algorithmic concepts implemented in C.
 
 ---
-## 📊 Solved Problems Overview
+##  Solved Problems Overview
 
 | # | Category / Sheet | Platform | Problems Solved |
 | :---: | :--- | :---: | :---: |
@@ -39,7 +39,7 @@ This repository documents my competitive programming and computer science founda
 
 ---
 
-### 📁 Codeforces Sheet #1: Data type - Conditions
+###  Codeforces Sheet #1: Data type - Conditions
 
 > **Directory:** [`01_Sheet_01_Conditions/`](01_Sheet_01_Conditions/) • **Platform:** `Codeforces`
 
@@ -55,7 +55,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | W Mathematical Expression | [`W_Mathematical_Expression.c`](./01_Sheet_01_Conditions/W_Mathematical_Expression.c) |
 
 
-### 📁 Codeforces Sheet #2: Loops & Patterns
+###  Codeforces Sheet #2: Loops & Patterns
 
 > **Directory:** [`02_Sheet_02_Loops/`](02_Sheet_02_Loops/) • **Platform:** `Codeforces`
 
@@ -73,7 +73,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | W Shape3 | [`W_Shape3.c`](./02_Sheet_02_Loops/W_Shape3.c) |
 
 
-### 📁 Codeforces Contest #1
+###  Codeforces Contest #1
 
 > **Directory:** [`03_Contest_01/`](03_Contest_01/) • **Platform:** `Codeforces`
 
@@ -85,7 +85,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | I Lucky Numbers | [`I_Lucky_Numbers.c`](./03_Contest_01/I_Lucky_Numbers.c) |
 
 
-### 📁 Codeforces Sheet #3: Arrays
+###  Codeforces Sheet #3: Arrays
 
 > **Directory:** [`04_Sheet_03_Arrays/`](04_Sheet_03_Arrays/) • **Platform:** `Codeforces`
 
@@ -108,7 +108,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | W Mirror Array | [`W_Mirror_Array.c`](./04_Sheet_03_Arrays/W_Mirror_Array.c) |
 
 
-### 📁 Codeforces Sheet #4: Strings
+###  Codeforces Sheet #4: Strings
 
 > **Directory:** [`05_Sheet_04_Strings/`](05_Sheet_04_Strings/) • **Platform:** `Codeforces`
 
@@ -125,7 +125,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | K I Love strings | [`K_I_Love_strings.c`](./05_Sheet_04_Strings/K_I_Love_strings.c) |
 
 
-### 📁 Codeforces Sheet #5: Functions
+###  Codeforces Sheet #5: Functions
 
 > **Directory:** [`06_Sheet_05_Functions/`](06_Sheet_05_Functions/) • **Platform:** `Codeforces`
 
@@ -137,7 +137,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | N Shift Zeros | [`N_Shift_Zeros.c`](./06_Sheet_05_Functions/N_Shift_Zeros.c) |
 
 
-### 📁 Module 15: Pointers & References
+###  Module 15: Pointers & References
 
 > **Directory:** [`07_Pointers/`](07_Pointers/) • **Platform:** `Course Module`
 
@@ -149,7 +149,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | scan function | [`scan_function.c`](./07_Pointers/scan_function.c) |
 
 
-### 📁 HackerRank: Assignment 01
+###  HackerRank: Assignment 01
 
 > **Directory:** [`08_Assignment_01/`](08_Assignment_01/) • **Platform:** `HackerRank`
 
@@ -162,7 +162,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Shopping | [`Shopping.c`](./08_Assignment_01/Shopping.c) |
 
 
-### 📁 HackerRank: Assignment 02
+###  HackerRank: Assignment 02
 
 > **Directory:** [`09_Assignment_02/`](09_Assignment_02/) • **Platform:** `HackerRank`
 
@@ -175,7 +175,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Update and Print | [`Update_and_Print.c`](./09_Assignment_02/Update_and_Print.c) |
 
 
-### 📁 HackerRank: Mid Term Exam (Batch 10)
+###  HackerRank: Mid Term Exam (Batch 10)
 
 > **Directory:** [`10_Mid_Term_Exam/`](10_Mid_Term_Exam/) • **Platform:** `HackerRank`
 
@@ -188,7 +188,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Farmers | [`Farmers.c`](./10_Mid_Term_Exam/Farmers.c) |
 
 
-### 📁 HackerRank: Module 3.5 Practice Day 2
+###  HackerRank: Module 3.5 Practice Day 2
 
 > **Directory:** [`11_Practice_Day_Module_3_5/`](11_Practice_Day_Module_3_5/) • **Platform:** `HackerRank`
 
@@ -201,7 +201,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Variables | [`Variables.c`](./11_Practice_Day_Module_3_5/Variables.c) |
 
 
-### 📁 AtCoder Beginner Contests
+###  AtCoder Beginner Contests
 
 > **Directory:** [`12_AtCoder_Contests/`](12_AtCoder_Contests/) • **Platform:** `AtCoder`
 
@@ -211,7 +211,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Greedy Takahashi | [`Greedy_Takahashi.c`](./12_AtCoder_Contests/Greedy_Takahashi.c) |
 
 
-### 📁 C Concepts, Patterns & Functions Practice
+###  C Concepts, Patterns & Functions Practice
 
 > **Directory:** [`13_Concepts_and_Basics/`](13_Concepts_and_Basics/) • **Platform:** `Core Concepts`
 
@@ -231,7 +231,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | stin | [`stin.c`](./13_Concepts_and_Basics/stin.c) |
 
 
-### 📁 HackerRank: Assignment 03 (Batch 10)
+###  HackerRank: Assignment 03 (Batch 10)
 
 > **Directory:** [`14_Assignment_03/`](14_Assignment_03/) • **Platform:** `HackerRank`
 
@@ -244,7 +244,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | Pattern 2 | [`Pattern_2.c`](./14_Assignment_03/Pattern_2.c) |
 
 
-### 📁 Module 17: Recursion & Call Stack
+###  Module 17: Recursion & Call Stack
 
 > **Directory:** [`15_Recursion/`](15_Recursion/) • **Platform:** `Course Module`
 
@@ -262,7 +262,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | print array recursion | [`print_array_recursion.c`](./15_Recursion/print_array_recursion.c) |
 
 
-### 📁 Module 18: 2D Array & Matrix
+###  Module 18: 2D Array & Matrix
 
 > **Directory:** [`16_2D_Array/`](16_2D_Array/) • **Platform:** `Course Module`
 
@@ -281,7 +281,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | zero matrix | [`zero_matrix.c`](./16_2D_Array/zero_matrix.c) |
 
 
-### 📁 Codeforces Contest #3.1
+###  Codeforces Contest #3.1
 
 > **Directory:** [`17_Contest_03/`](17_Contest_03/) • **Platform:** `Codeforces`
 
@@ -291,7 +291,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | F Front End | [`F_Front_End.c`](./17_Contest_03/F_Front_End.c) |
 
 
-### 📁 Codeforces Sheet #8: General Easy
+###  Codeforces Sheet #8: General Easy
 
 > **Directory:** [`18_Sheet_08_General_Easy/`](18_Sheet_08_General_Easy/) • **Platform:** `Codeforces`
 
@@ -300,7 +300,7 @@ This repository documents my competitive programming and computer science founda
 | ✅ | J Lucky Division | [`J_Lucky_Division.c`](./18_Sheet_08_General_Easy/J_Lucky_Division.c) |
 
 
-### 📁 HackerRank: Final Exam (Batch 10)
+###  HackerRank: Final Exam (Batch 10)
 
 > **Directory:** [`19_Final_Exam/`](19_Final_Exam/) • **Platform:** `HackerRank`
 
