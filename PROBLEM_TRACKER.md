@@ -21,8 +21,9 @@
 - **Module 18: 2D Array & Matrix:** 11 Solved `.c` Files
 - **Codeforces Contest #3.1:** 2 Solved `.c` Files
 - **Codeforces Sheet #8: General Easy:** 1 Solved `.c` Files
+- **HackerRank: Final Exam (Batch 10):** 6 Solved `.c` Files
 
-**🏆 Total Solved C Files Saved:** `117` Files
+**🏆 Total Solved C Files Saved:** `123` Files
 
 ---
 
@@ -249,4 +250,16 @@
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
 | ✅ | `J_Lucky_Division.c` | [`J_Lucky_Division.c`](file:///Users/shithel/Desktop/Codep/18_Sheet_08_General_Easy/J_Lucky_Division.c) |
+
+
+## 📁 HackerRank: Final Exam (Batch 10) (`19_Final_Exam/`)
+
+| Status | Problem / File Name | Local File Link |
+| :---: | :--- | :--- |
+| ✅ | `Difference_Array.c` | [`Difference_Array.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Difference_Array.c) |
+| ✅ | `Find_the_Missing_Number.c` | [`Find_the_Missing_Number.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Find_the_Missing_Number.c) |
+| ✅ | `Jadu_Matrix.c` | [`Jadu_Matrix.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Jadu_Matrix.c) |
+| ✅ | `Magical_Tree.c` | [`Magical_Tree.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Magical_Tree.c) |
+| ✅ | `Matrix_Again.c` | [`Matrix_Again.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Matrix_Again.c) |
+| ✅ | `Tiger_vs_Pathan.c` | [`Tiger_vs_Pathan.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Tiger_vs_Pathan.c) |
 

@@ -1,8 +1,8 @@
 # 🚀 Phitron C Programming & Competitive Programming Journey
-> A complete, structured archive of **117 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
+> A complete, structured archive of **123 C programming problems** solved during **Phitron Batch 10** across **Codeforces, HackerRank, and AtCoder**.
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-117-brightgreen?style=flat)
+![Solved](https://img.shields.io/badge/Problems_Solved-123-brightgreen?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
 ![Batch](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
@@ -34,7 +34,8 @@ This repository documents my competitive programming and computer science founda
 | 16 | [Module 18: 2D Array & Matrix](#-16-2d-array) | `Course Module` | **11** |
 | 17 | [Codeforces Contest #3.1](#-17-contest-03) | `Codeforces` | **2** |
 | 18 | [Codeforces Sheet #8: General Easy](#-18-sheet-08-general-easy) | `Codeforces` | **1** |
-| | **Total Solved Problems** | | **117** |
+| 19 | [HackerRank: Final Exam (Batch 10)](#-19-final-exam) | `HackerRank` | **6** |
+| | **Total Solved Problems** | | **123** |
 
 ---
 
@@ -297,6 +298,20 @@ This repository documents my competitive programming and computer science founda
 | Status | Problem Name | Source Code File |
 | :---: | :--- | :--- |
 | ✅ | J Lucky Division | [`J_Lucky_Division.c`](./18_Sheet_08_General_Easy/J_Lucky_Division.c) |
+
+
+### 📁 HackerRank: Final Exam (Batch 10)
+
+> **Directory:** [`19_Final_Exam/`](19_Final_Exam/) • **Platform:** `HackerRank`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | Difference Array | [`Difference_Array.c`](./19_Final_Exam/Difference_Array.c) |
+| ✅ | Find the Missing Number | [`Find_the_Missing_Number.c`](./19_Final_Exam/Find_the_Missing_Number.c) |
+| ✅ | Jadu Matrix | [`Jadu_Matrix.c`](./19_Final_Exam/Jadu_Matrix.c) |
+| ✅ | Magical Tree | [`Magical_Tree.c`](./19_Final_Exam/Magical_Tree.c) |
+| ✅ | Matrix Again | [`Matrix_Again.c`](./19_Final_Exam/Matrix_Again.c) |
+| ✅ | Tiger vs Pathan | [`Tiger_vs_Pathan.c`](./19_Final_Exam/Tiger_vs_Pathan.c) |
 
 
 ---
