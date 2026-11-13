@@ -1,8 +1,8 @@
-# 🚀 Phitron C Programming & Competitive Programming Tracker
-**Student:** `shoayibul.islam.shithel` | **Course:** Phitron Batch 10 (Introduction to C Programming)
+# Solved Problems Directory & Verification Tracker
+> **Author:** Shoayibul Islam Shithel ([@shithel9360](https://github.com/shithel9360)) • **Course:** Phitron Batch 10 (Introduction to C Programming)
 
 ---
-## 📊 Repository Summary
+## Repository Summary
 - **Codeforces Sheet #1: Data type - Conditions:** 8 Solved `.c` Files
 - **Codeforces Sheet #2: Loops & Patterns:** 10 Solved `.c` Files
 - **Codeforces Contest #1:** 4 Solved `.c` Files
@@ -23,11 +23,11 @@
 - **Codeforces Sheet #8: General Easy:** 1 Solved `.c` Files
 - **HackerRank: Final Exam (Batch 10):** 6 Solved `.c` Files
 
-**🏆 Total Solved C Files Saved:** `123` Files
+**Total Solved C Files Saved:** `123` Files
 
 ---
 
-## 📁 Codeforces Sheet #1: Data type - Conditions (`01_Sheet_01_Conditions/`)
+## Codeforces Sheet #1: Data type - Conditions (`01_Sheet_01_Conditions/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -41,7 +41,7 @@
 | ✅ | `W_Mathematical_Expression.c` | [`W_Mathematical_Expression.c`](file:///Users/shithel/Desktop/Codep/01_Sheet_01_Conditions/W_Mathematical_Expression.c) |
 
 
-## 📁 Codeforces Sheet #2: Loops & Patterns (`02_Sheet_02_Loops/`)
+## Codeforces Sheet #2: Loops & Patterns (`02_Sheet_02_Loops/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -57,7 +57,7 @@
 | ✅ | `W_Shape3.c` | [`W_Shape3.c`](file:///Users/shithel/Desktop/Codep/02_Sheet_02_Loops/W_Shape3.c) |
 
 
-## 📁 Codeforces Contest #1 (`03_Contest_01/`)
+## Codeforces Contest #1 (`03_Contest_01/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -67,7 +67,7 @@
 | ✅ | `I_Lucky_Numbers.c` | [`I_Lucky_Numbers.c`](file:///Users/shithel/Desktop/Codep/03_Contest_01/I_Lucky_Numbers.c) |
 
 
-## 📁 Codeforces Sheet #3: Arrays (`04_Sheet_03_Arrays/`)
+## Codeforces Sheet #3: Arrays (`04_Sheet_03_Arrays/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -88,7 +88,7 @@
 | ✅ | `W_Mirror_Array.c` | [`W_Mirror_Array.c`](file:///Users/shithel/Desktop/Codep/04_Sheet_03_Arrays/W_Mirror_Array.c) |
 
 
-## 📁 Codeforces Sheet #4: Strings (`05_Sheet_04_Strings/`)
+## Codeforces Sheet #4: Strings (`05_Sheet_04_Strings/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -103,7 +103,7 @@
 | ✅ | `K_I_Love_strings.c` | [`K_I_Love_strings.c`](file:///Users/shithel/Desktop/Codep/05_Sheet_04_Strings/K_I_Love_strings.c) |
 
 
-## 📁 Codeforces Sheet #5: Functions (`06_Sheet_05_Functions/`)
+## Codeforces Sheet #5: Functions (`06_Sheet_05_Functions/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -113,7 +113,7 @@
 | ✅ | `N_Shift_Zeros.c` | [`N_Shift_Zeros.c`](file:///Users/shithel/Desktop/Codep/06_Sheet_05_Functions/N_Shift_Zeros.c) |
 
 
-## 📁 Module 15: Pointers & References (`07_Pointers/`)
+## Module 15: Pointers & References (`07_Pointers/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -123,7 +123,7 @@
 | ✅ | `scan_function.c` | [`scan_function.c`](file:///Users/shithel/Desktop/Codep/07_Pointers/scan_function.c) |
 
 
-## 📁 HackerRank: Assignment 01 (`08_Assignment_01/`)
+## HackerRank: Assignment 01 (`08_Assignment_01/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -134,7 +134,7 @@
 | ✅ | `Shopping.c` | [`Shopping.c`](file:///Users/shithel/Desktop/Codep/08_Assignment_01/Shopping.c) |
 
 
-## 📁 HackerRank: Assignment 02 (`09_Assignment_02/`)
+## HackerRank: Assignment 02 (`09_Assignment_02/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -145,7 +145,7 @@
 | ✅ | `Update_and_Print.c` | [`Update_and_Print.c`](file:///Users/shithel/Desktop/Codep/09_Assignment_02/Update_and_Print.c) |
 
 
-## 📁 HackerRank: Mid Term Exam (Batch 10) (`10_Mid_Term_Exam/`)
+## HackerRank: Mid Term Exam (Batch 10) (`10_Mid_Term_Exam/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -156,7 +156,7 @@
 | ✅ | `Farmers.c` | [`Farmers.c`](file:///Users/shithel/Desktop/Codep/10_Mid_Term_Exam/Farmers.c) |
 
 
-## 📁 HackerRank: Module 3.5 Practice Day 2 (`11_Practice_Day_Module_3_5/`)
+## HackerRank: Module 3.5 Practice Day 2 (`11_Practice_Day_Module_3_5/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -167,7 +167,7 @@
 | ✅ | `Variables.c` | [`Variables.c`](file:///Users/shithel/Desktop/Codep/11_Practice_Day_Module_3_5/Variables.c) |
 
 
-## 📁 AtCoder Beginner Contests (`12_AtCoder_Contests/`)
+## AtCoder Beginner Contests (`12_AtCoder_Contests/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -175,7 +175,7 @@
 | ✅ | `Greedy_Takahashi.c` | [`Greedy_Takahashi.c`](file:///Users/shithel/Desktop/Codep/12_AtCoder_Contests/Greedy_Takahashi.c) |
 
 
-## 📁 C Concepts, Patterns & Functions Practice (`13_Concepts_and_Basics/`)
+## C Concepts, Patterns & Functions Practice (`13_Concepts_and_Basics/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -193,7 +193,7 @@
 | ✅ | `stin.c` | [`stin.c`](file:///Users/shithel/Desktop/Codep/13_Concepts_and_Basics/stin.c) |
 
 
-## 📁 HackerRank: Assignment 03 (Batch 10) (`14_Assignment_03/`)
+## HackerRank: Assignment 03 (Batch 10) (`14_Assignment_03/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -204,7 +204,7 @@
 | ✅ | `Pattern_2.c` | [`Pattern_2.c`](file:///Users/shithel/Desktop/Codep/14_Assignment_03/Pattern_2.c) |
 
 
-## 📁 Module 17: Recursion & Call Stack (`15_Recursion/`)
+## Module 17: Recursion & Call Stack (`15_Recursion/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -220,7 +220,7 @@
 | ✅ | `print_array_recursion.c` | [`print_array_recursion.c`](file:///Users/shithel/Desktop/Codep/15_Recursion/print_array_recursion.c) |
 
 
-## 📁 Module 18: 2D Array & Matrix (`16_2D_Array/`)
+## Module 18: 2D Array & Matrix (`16_2D_Array/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -237,7 +237,7 @@
 | ✅ | `zero_matrix.c` | [`zero_matrix.c`](file:///Users/shithel/Desktop/Codep/16_2D_Array/zero_matrix.c) |
 
 
-## 📁 Codeforces Contest #3.1 (`17_Contest_03/`)
+## Codeforces Contest #3.1 (`17_Contest_03/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
@@ -245,14 +245,14 @@
 | ✅ | `F_Front_End.c` | [`F_Front_End.c`](file:///Users/shithel/Desktop/Codep/17_Contest_03/F_Front_End.c) |
 
 
-## 📁 Codeforces Sheet #8: General Easy (`18_Sheet_08_General_Easy/`)
+## Codeforces Sheet #8: General Easy (`18_Sheet_08_General_Easy/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
 | ✅ | `J_Lucky_Division.c` | [`J_Lucky_Division.c`](file:///Users/shithel/Desktop/Codep/18_Sheet_08_General_Easy/J_Lucky_Division.c) |
 
 
-## 📁 HackerRank: Final Exam (Batch 10) (`19_Final_Exam/`)
+## HackerRank: Final Exam (Batch 10) (`19_Final_Exam/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
