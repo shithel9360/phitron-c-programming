@@ -3,18 +3,23 @@
 
 int main()
 {
-    int t;
-    scanf("%d", &t);
+    int test;
+    scanf("%d", &test);
 
-    for (int k = 0; k < t; k++)
+    while (test--)
     {
         int n;
         scanf("%d", &n);
 
-        int a[n], b[n];
+        int a[n];
         for (int i = 0; i < n; i++)
         {
             scanf("%d", &a[i]);
+        }
+
+        int b[n];
+        for (int i = 0; i < n; i++)
+        {
             b[i] = a[i];
         }
 
@@ -31,16 +36,21 @@ int main()
             }
         }
 
+        int c[n];
         for (int i = 0; i < n; i++)
         {
-            int diff = abs(a[i] - b[i]);
+            c[i] = abs(a[i] - b[i]);
+        }
+
+        for (int i = 0; i < n; i++)
+        {
             if (i == n - 1)
             {
-                printf("%d", diff);
+                printf("%d", c[i]);
             }
             else
             {
-                printf("%d ", diff);
+                printf("%d ", c[i]);
             }
         }
         printf("\n");
