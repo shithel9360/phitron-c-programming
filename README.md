@@ -1,17 +1,17 @@
-# C Programming & Problem Solving Portfolio
-> A structured archive of **123 solved algorithmic problems** demonstrating core computer science foundations, memory management, and competitive programming mastery in C.
+# C & C++ Programming & Problem Solving Portfolio
+> A structured archive of **135 solved algorithmic problems** demonstrating core computer science foundations, memory management, and competitive programming mastery in C & C++.
 
-![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-123-brightgreen?style=flat)
+![Language](https://img.shields.io/badge/Language-C%20%2F%20C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Solved](https://img.shields.io/badge/Problems_Solved-135-brightgreen?style=flat)
 ![Course](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+![Status](https://img.shields.io/badge/Status-In_Progress-success?style=flat)
 
 ---
 ## Portfolio Overview
 
-This repository serves as a personal portfolio and structured showcase of my algorithmic foundations in **C Programming**, completed during **Phitron Batch 10**.
+This repository serves as a personal portfolio and structured showcase of my algorithmic foundations in **C and C++ Programming**, completed during **Phitron Batch 10**.
 It documents hands-on mastery of fundamental computational concepts, standard competitive programming patterns from the **Assiut University Training Sheet (Codeforces)**, official **HackerRank Assessments & Exams**, and **AtCoder Contests**.
 
 The repository is curated as a clean skills archive highlighting structured logic design, clean memory manipulation, and algorithmic efficiency.
@@ -21,6 +21,7 @@ The repository is curated as a clean skills archive highlighting structured logi
 
 | Domain | Key Concepts & Techniques |
 | :--- | :--- |
+| **C++ Fundamentals & I/O** | `cin`, `cout`, `endl`, `fixed` & `setprecision`, ternary operator, switch-case logic, `min`, `max`, `swap`, C++ string streams. |
 | **Control Flow & Patterns** | Conditional branching, multi-condition evaluations, nested loops, complex pattern drafting (Pyramid, Diamond, Shape 1-3). |
 | **Arrays & Matrix Algebra** | 1D & 2D array traversal, frequency arrays, matrix transformations (Primary & Secondary Diagonal, Scalar, Unit, Mirroring). |
 | **Memory & Pointers** | Direct memory address referencing, pointer arithmetic, pass-by-reference mechanics, array decay. |
@@ -52,7 +53,8 @@ The repository is curated as a clean skills archive highlighting structured logi
 | 17 | [Codeforces Contest #3.1](#-17-contest-03) | `Codeforces` | **2** | ✅ Solved |
 | 18 | [Codeforces Sheet #8: General Easy](#-18-sheet-08-general-easy) | `Codeforces` | **1** | ✅ Solved |
 | 19 | [HackerRank: Final Exam (Batch 10)](#-19-final-exam) | `HackerRank` | **6** | ✅ Solved |
-| | **Total Solved Problems** | | **123** | 🏆 **100% Solved** |
+| 20 | [C++ Module 01: Basic C++ Syntax & Operations](#-20-cpp-basics) | `Course Module` | **12** | ✅ Solved |
+| | **Total Solved Problems** | | **135** | 🚀 **Continuous Progress** |
 
 ---
 ## Detailed Problem Archive
@@ -370,15 +372,37 @@ The repository is curated as a clean skills archive highlighting structured logi
 
 </details>
 
+<details>
+<summary><b>20. C++ Module 01: Basic C++ Syntax & Operations (12 Problems)</b></summary>
+
+> **Directory:** [`20_CPP_Basics/`](20_CPP_Basics/) • **Platform:** `Course Module`
+
+| Status | Problem Name | Source Code File |
+| :---: | :--- | :--- |
+| ✅ | EOF | [`EOF.cpp`](./20_CPP_Basics/EOF.cpp) |
+| ✅ | if else | [`if_else.cpp`](./20_CPP_Basics/if_else.cpp) |
+| ✅ | input | [`input.cpp`](./20_CPP_Basics/input.cpp) |
+| ✅ | min max | [`min_max.cpp`](./20_CPP_Basics/min_max.cpp) |
+| ✅ | print | [`print.cpp`](./20_CPP_Basics/print.cpp) |
+| ✅ | setprecision | [`setprecision.cpp`](./20_CPP_Basics/setprecision.cpp) |
+| ✅ | string | [`string.cpp`](./20_CPP_Basics/string.cpp) |
+| ✅ | switch | [`switch.cpp`](./20_CPP_Basics/switch.cpp) |
+| ✅ | switch char | [`switch_char.cpp`](./20_CPP_Basics/switch_char.cpp) |
+| ✅ | switch even odd | [`switch_even_odd.cpp`](./20_CPP_Basics/switch_even_odd.cpp) |
+| ✅ | ternary operator | [`ternary_operator.cpp`](./20_CPP_Basics/ternary_operator.cpp) |
+| ✅ | text | [`text.cpp`](./20_CPP_Basics/text.cpp) |
+
+</details>
+
 ---
 ## Key Milestones & Assessments
 
-- 🎓 **Phitron Batch 10 Curriculum**: Completed 100% of the C programming syllabus.
+- 🎓 **Phitron Batch 10 Curriculum**: Completed 100% of the C programming syllabus; now advancing into C++ for Data Structures & Algorithms.
 - 🎯 **All Assessments Cleared**:
   - Assignment 01, Assignment 02, Assignment 03 (HackerRank)
   - Mid-Term Examination (HackerRank)
   - Final Examination (HackerRank - 6/6 problems solved)
-- 🧼 **Code Quality**: All solutions are written in clean, idiomatic C, strictly formatted, and compile warning-free with `gcc -Wall -Wextra`.
+- 🧼 **Code Quality**: All solutions are written in clean, idiomatic C & C++, strictly formatted, and compile warning-free with `gcc -Wall -Wextra` and `g++ -Wall -Wextra`.
 
 ---
 ## Author Profile

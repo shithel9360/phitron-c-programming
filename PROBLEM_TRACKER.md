@@ -1,29 +1,30 @@
 # Solved Problems Directory & Verification Tracker
-> **Author:** Shoayibul Islam Shithel ([@shithel9360](https://github.com/shithel9360)) • **Course:** Phitron Batch 10 (Introduction to C Programming)
+> **Author:** Shoayibul Islam Shithel ([@shithel9360](https://github.com/shithel9360)) • **Course:** Phitron Batch 10 (C & C++ for DSA)
 
 ---
 ## Repository Summary
-- **Codeforces Sheet #1: Data type - Conditions:** 8 Solved `.c` Files
-- **Codeforces Sheet #2: Loops & Patterns:** 10 Solved `.c` Files
-- **Codeforces Contest #1:** 4 Solved `.c` Files
-- **Codeforces Sheet #3: Arrays:** 15 Solved `.c` Files
-- **Codeforces Sheet #4: Strings:** 9 Solved `.c` Files
-- **Codeforces Sheet #5: Functions:** 4 Solved `.c` Files
-- **Module 15: Pointers & References:** 4 Solved `.c` Files
-- **HackerRank: Assignment 01:** 5 Solved `.c` Files
-- **HackerRank: Assignment 02:** 5 Solved `.c` Files
-- **HackerRank: Mid Term Exam (Batch 10):** 5 Solved `.c` Files
-- **HackerRank: Module 3.5 Practice Day 2:** 5 Solved `.c` Files
-- **AtCoder Beginner Contests:** 2 Solved `.c` Files
-- **C Concepts, Patterns & Functions Practice:** 12 Solved `.c` Files
-- **HackerRank: Assignment 03 (Batch 10):** 5 Solved `.c` Files
-- **Module 17: Recursion & Call Stack:** 10 Solved `.c` Files
-- **Module 18: 2D Array & Matrix:** 11 Solved `.c` Files
-- **Codeforces Contest #3.1:** 2 Solved `.c` Files
-- **Codeforces Sheet #8: General Easy:** 1 Solved `.c` Files
-- **HackerRank: Final Exam (Batch 10):** 6 Solved `.c` Files
+- **Codeforces Sheet #1: Data type - Conditions:** 8 Solved Code Files
+- **Codeforces Sheet #2: Loops & Patterns:** 10 Solved Code Files
+- **Codeforces Contest #1:** 4 Solved Code Files
+- **Codeforces Sheet #3: Arrays:** 15 Solved Code Files
+- **Codeforces Sheet #4: Strings:** 9 Solved Code Files
+- **Codeforces Sheet #5: Functions:** 4 Solved Code Files
+- **Module 15: Pointers & References:** 4 Solved Code Files
+- **HackerRank: Assignment 01:** 5 Solved Code Files
+- **HackerRank: Assignment 02:** 5 Solved Code Files
+- **HackerRank: Mid Term Exam (Batch 10):** 5 Solved Code Files
+- **HackerRank: Module 3.5 Practice Day 2:** 5 Solved Code Files
+- **AtCoder Beginner Contests:** 2 Solved Code Files
+- **C Concepts, Patterns & Functions Practice:** 12 Solved Code Files
+- **HackerRank: Assignment 03 (Batch 10):** 5 Solved Code Files
+- **Module 17: Recursion & Call Stack:** 10 Solved Code Files
+- **Module 18: 2D Array & Matrix:** 11 Solved Code Files
+- **Codeforces Contest #3.1:** 2 Solved Code Files
+- **Codeforces Sheet #8: General Easy:** 1 Solved Code Files
+- **HackerRank: Final Exam (Batch 10):** 6 Solved Code Files
+- **C++ Module 01: Basic C++ Syntax & Operations:** 12 Solved Code Files
 
-**Total Solved C Files Saved:** `123` Files
+**Total Solved Code Files Saved:** `135` Files
 
 ---
 
@@ -262,4 +263,22 @@
 | ✅ | `Magical_Tree.c` | [`Magical_Tree.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Magical_Tree.c) |
 | ✅ | `Matrix_Again.c` | [`Matrix_Again.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Matrix_Again.c) |
 | ✅ | `Tiger_vs_Pathan.c` | [`Tiger_vs_Pathan.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Tiger_vs_Pathan.c) |
+
+
+## C++ Module 01: Basic C++ Syntax & Operations (`20_CPP_Basics/`)
+
+| Status | Problem / File Name | Local File Link |
+| :---: | :--- | :--- |
+| ✅ | `EOF.cpp` | [`EOF.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/EOF.cpp) |
+| ✅ | `if_else.cpp` | [`if_else.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/if_else.cpp) |
+| ✅ | `input.cpp` | [`input.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/input.cpp) |
+| ✅ | `min_max.cpp` | [`min_max.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/min_max.cpp) |
+| ✅ | `print.cpp` | [`print.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/print.cpp) |
+| ✅ | `setprecision.cpp` | [`setprecision.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/setprecision.cpp) |
+| ✅ | `string.cpp` | [`string.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/string.cpp) |
+| ✅ | `switch.cpp` | [`switch.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/switch.cpp) |
+| ✅ | `switch_char.cpp` | [`switch_char.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/switch_char.cpp) |
+| ✅ | `switch_even_odd.cpp` | [`switch_even_odd.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/switch_even_odd.cpp) |
+| ✅ | `ternary_operator.cpp` | [`ternary_operator.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/ternary_operator.cpp) |
+| ✅ | `text.cpp` | [`text.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/text.cpp) |
 
