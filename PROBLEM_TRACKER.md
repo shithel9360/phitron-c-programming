@@ -22,9 +22,9 @@
 - **Codeforces Contest #3.1:** 2 Solved Code Files
 - **Codeforces Sheet #8: General Easy:** 1 Solved Code Files
 - **HackerRank: Final Exam (Batch 10):** 6 Solved Code Files
-- **C++ Module 01: Basic C++ Syntax & Operations:** 12 Solved Code Files
+- **C++ Module 01-02: Basics & Dynamic Memory Allocation:** 16 Solved Code Files
 
-**Total Solved Code Files Saved:** `135` Files
+**Total Solved Code Files Saved:** `139` Files
 
 ---
 
@@ -265,15 +265,19 @@
 | ✅ | `Tiger_vs_Pathan.c` | [`Tiger_vs_Pathan.c`](file:///Users/shithel/Desktop/Codep/19_Final_Exam/Tiger_vs_Pathan.c) |
 
 
-## C++ Module 01: Basic C++ Syntax & Operations (`20_CPP_Basics/`)
+## C++ Module 01-02: Basics & Dynamic Memory Allocation (`20_CPP_Basics/`)
 
 | Status | Problem / File Name | Local File Link |
 | :---: | :--- | :--- |
 | ✅ | `EOF.cpp` | [`EOF.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/EOF.cpp) |
+| ✅ | `dynamic_array.cpp` | [`dynamic_array.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/dynamic_array.cpp) |
+| ✅ | `dynamic_array_size_increase.cpp` | [`dynamic_array_size_increase.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/dynamic_array_size_increase.cpp) |
+| ✅ | `dynamic_variable.cpp` | [`dynamic_variable.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/dynamic_variable.cpp) |
 | ✅ | `if_else.cpp` | [`if_else.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/if_else.cpp) |
 | ✅ | `input.cpp` | [`input.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/input.cpp) |
 | ✅ | `min_max.cpp` | [`min_max.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/min_max.cpp) |
 | ✅ | `print.cpp` | [`print.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/print.cpp) |
+| ✅ | `return_dynamic_array_from_function.cpp` | [`return_dynamic_array_from_function.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/return_dynamic_array_from_function.cpp) |
 | ✅ | `setprecision.cpp` | [`setprecision.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/setprecision.cpp) |
 | ✅ | `string.cpp` | [`string.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/string.cpp) |
 | ✅ | `switch.cpp` | [`switch.cpp`](file:///Users/shithel/Desktop/Codep/20_CPP_Basics/switch.cpp) |

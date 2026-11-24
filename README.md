@@ -1,8 +1,8 @@
 # C & C++ Programming & Problem Solving Portfolio
-> A structured archive of **135 solved algorithmic problems** demonstrating core computer science foundations, memory management, and competitive programming mastery in C & C++.
+> A structured archive of **139 solved algorithmic problems** demonstrating core computer science foundations, memory management, and competitive programming mastery in C & C++.
 
 ![Language](https://img.shields.io/badge/Language-C%20%2F%20C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/Problems_Solved-135-brightgreen?style=flat)
+![Solved](https://img.shields.io/badge/Problems_Solved-139-brightgreen?style=flat)
 ![Course](https://img.shields.io/badge/Course-Phitron_Batch_10-orange?style=flat)
 [![Codeforces](https://img.shields.io/badge/Codeforces-shoayibul.islam.shithel-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shoayibul.islam.shithel)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shoayibul__islam1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shoayibul_islam1)
@@ -21,6 +21,7 @@ The repository is curated as a clean skills archive highlighting structured logi
 
 | Domain | Key Concepts & Techniques |
 | :--- | :--- |
+| **Dynamic Memory Allocation** | Heap allocation (`new`, `new[]`), manual deallocation (`delete`, `delete[]`), dynamic resizing, returning dynamic arrays from functions. |
 | **C++ Fundamentals & I/O** | `cin`, `cout`, `endl`, `fixed` & `setprecision`, ternary operator, switch-case logic, `min`, `max`, `swap`, C++ string streams. |
 | **Control Flow & Patterns** | Conditional branching, multi-condition evaluations, nested loops, complex pattern drafting (Pyramid, Diamond, Shape 1-3). |
 | **Arrays & Matrix Algebra** | 1D & 2D array traversal, frequency arrays, matrix transformations (Primary & Secondary Diagonal, Scalar, Unit, Mirroring). |
@@ -53,8 +54,8 @@ The repository is curated as a clean skills archive highlighting structured logi
 | 17 | [Codeforces Contest #3.1](#-17-contest-03) | `Codeforces` | **2** | ✅ Solved |
 | 18 | [Codeforces Sheet #8: General Easy](#-18-sheet-08-general-easy) | `Codeforces` | **1** | ✅ Solved |
 | 19 | [HackerRank: Final Exam (Batch 10)](#-19-final-exam) | `HackerRank` | **6** | ✅ Solved |
-| 20 | [C++ Module 01: Basic C++ Syntax & Operations](#-20-cpp-basics) | `Course Module` | **12** | ✅ Solved |
-| | **Total Solved Problems** | | **135** | 🚀 **Continuous Progress** |
+| 20 | [C++ Module 01-02: Basics & Dynamic Memory Allocation](#-20-cpp-basics) | `Course Module` | **16** | ✅ Solved |
+| | **Total Solved Problems** | | **139** | 🚀 **Continuous Progress** |
 
 ---
 ## Detailed Problem Archive
@@ -373,17 +374,21 @@ The repository is curated as a clean skills archive highlighting structured logi
 </details>
 
 <details>
-<summary><b>20. C++ Module 01: Basic C++ Syntax & Operations (12 Problems)</b></summary>
+<summary><b>20. C++ Module 01-02: Basics & Dynamic Memory Allocation (16 Problems)</b></summary>
 
 > **Directory:** [`20_CPP_Basics/`](20_CPP_Basics/) • **Platform:** `Course Module`
 
 | Status | Problem Name | Source Code File |
 | :---: | :--- | :--- |
 | ✅ | EOF | [`EOF.cpp`](./20_CPP_Basics/EOF.cpp) |
+| ✅ | dynamic array | [`dynamic_array.cpp`](./20_CPP_Basics/dynamic_array.cpp) |
+| ✅ | dynamic array size increase | [`dynamic_array_size_increase.cpp`](./20_CPP_Basics/dynamic_array_size_increase.cpp) |
+| ✅ | dynamic variable | [`dynamic_variable.cpp`](./20_CPP_Basics/dynamic_variable.cpp) |
 | ✅ | if else | [`if_else.cpp`](./20_CPP_Basics/if_else.cpp) |
 | ✅ | input | [`input.cpp`](./20_CPP_Basics/input.cpp) |
 | ✅ | min max | [`min_max.cpp`](./20_CPP_Basics/min_max.cpp) |
 | ✅ | print | [`print.cpp`](./20_CPP_Basics/print.cpp) |
+| ✅ | return dynamic array from function | [`return_dynamic_array_from_function.cpp`](./20_CPP_Basics/return_dynamic_array_from_function.cpp) |
 | ✅ | setprecision | [`setprecision.cpp`](./20_CPP_Basics/setprecision.cpp) |
 | ✅ | string | [`string.cpp`](./20_CPP_Basics/string.cpp) |
 | ✅ | switch | [`switch.cpp`](./20_CPP_Basics/switch.cpp) |
